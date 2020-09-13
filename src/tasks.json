@@ -1,0 +1,26 @@
+[
+    {
+        "id":"series",
+        "task":"vashard",
+        "description":"string",
+        "done": "boolean",
+        "created_at":"date_time",
+        "updated_at":"date_time"
+    },
+    {
+        "id":"1",
+        "task":"pedido",
+        "description":"facer_pedido",
+        "done": "false",
+        "created_at":"12/9/2020/22:02 H",
+        "updated_at":"12/9/2020/26:08 H"
+    },
+    {
+        "task": "received_kitchen",
+        "description": "request_received_kitchen",
+        "done": "false",
+        "created_at": "12/9/2020/22:02 H",
+        "updated_at": "12/9/2020/26:08 H",
+        "id": 3
+    }
+]
